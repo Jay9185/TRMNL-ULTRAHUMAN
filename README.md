@@ -3,6 +3,9 @@
 A custom serverless plugin that fetches live health metrics from the **Ultrahuman Ring Air** and formats them for the **TRMNL** e-ink display.
 
 Built on **Cloudflare Workers**, this plugin handles authentication, data processing, history tracking, and intelligent caching to provide a reliable, "set it and forget it" dashboard.
+
+> 📖 **Read the write-up:** I built this while wearing the Ring Air through 168 days of flight training. The full review, with the sleep and HRV data from 47 flight days, is on TurbulenceGains: **[Ultrahuman Ring Air Review for Pilots](https://turbulencegains.com/imsafe-ultrahuman-ring-pilot/)**. More TRMNL builds: [TRMNL review](https://turbulencegains.com/trmnl-review-2026/) · [TRMNL flight radar](https://turbulencegains.com/trmnl-flight-radar-guide/).
+
 ![IMG20260117120301](https://github.com/user-attachments/assets/8370542d-7341-454e-ac0e-e865c313a1d8)
 
 ![IMG20260117115857](https://github.com/user-attachments/assets/25c54f21-923c-4410-b760-f8d643af370c)
